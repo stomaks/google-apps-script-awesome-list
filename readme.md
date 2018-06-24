@@ -51,6 +51,7 @@
 * [gdrive](https://github.com/prasmussen/gdrive) [![GitHub stars](https://img.shields.io/github/stars/prasmussen/gdrive.svg?style=social&label=Star)](https://github.com/prasmussen/gdrive) Google Drive CLI Client
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/MaartenDesnouck/google-apps-script.svg?style=social&label=★)](https://github.com/MaartenDesnouck/google-apps-script) gas, for locally developing Google Apps Script projects
 * [gas-lib](https://www.npmjs.com/package/gas-lib) [![npm](https://img.shields.io/npm/dt/gas-lib.svg)](https://www.npmjs.com/package/gas-lib) NPM package to add code auto-completion for Google AppsScript in your prefered code editor
+* [Google Apps Script | Editor Plus](https://greasyfork.org/ru/scripts/369050-google-apps-script-editor-plus) This Chrome extension extends the capabilities of the Google Application Script Editor.
 * [AppsScriptColor](https://chrome.google.com/webstore/detail/appsscript-color/ciggahcpieccaejjdpkllokejakhkome) *(3 700+ users)* This Chrome extension provide 2 dark color themes for the google apps script editor. It also allows to use folders to sort your files more cleanly
 * [google/clasp](https://github.com/google/clasp) Develop Apps Script projects locally using clasp (Command Line Apps Script Projects).
 
